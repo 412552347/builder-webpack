@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'custom-font';
+    src: url("../images/font.ttf") format('truetype');
+}
+
+.search-text {
+    color: red;
+    font-family: 'custom-font';
+    display: flex;
+    font-size: 10px;
+}
